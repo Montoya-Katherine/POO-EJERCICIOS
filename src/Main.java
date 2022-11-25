@@ -5,7 +5,7 @@ import Entidades.Vehicle;
 public class Main {
     public static void main (String [] args){
 
-       /* Vehicle vehicle = new Vehicle("BMW", 120, "GRIS");
+        Vehicle vehicle = new Vehicle("BMW", 120, "GRIS");
         System.out.println(vehicle);
         vehicle.brand = "VW";
         vehicle.maxSpeed= 120;
@@ -27,7 +27,7 @@ public class Main {
         perro.dormir();
 
         System.out.println(perro);
-        System.out.println(" raza " + perro.raza);*/
+        System.out.println(" raza " + perro.raza);
 
         Persona persona1 = new Persona();
         persona1.nombre = "Yanet";
